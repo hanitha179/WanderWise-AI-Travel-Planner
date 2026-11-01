@@ -1,0 +1,29 @@
+city,name,category,description,rating,estimated_cost_idr,lat,lon,visit_minutes
+Bali,Uluwatu Temple,history,"Clifftop sea temple, Balinese culture, traditional Kecak dance and sunset views",4.7,50000,-8.8291,115.0849,90
+Bali,Tegallalang Rice Terrace,nature,"Green rice terraces, scenic landscape, photography and local agriculture",4.5,25000,-8.4312,115.2792,120
+Bali,Sanur Beach,beach,"Calm beach, swimming, sunrise, cycling and seaside relaxation",4.4,0,-8.6936,115.2625,120
+Bali,Campuhan Ridge Walk,adventure,"Hiking trail through green hills, nature, walking and panoramic scenery",4.5,0,-8.5000,115.2590,100
+Bali,Goa Gajah,history,"Ancient archaeological site, stone carvings, cave sanctuary and heritage",4.3,50000,-8.5238,115.2867,75
+Bali,Seminyak Food Market,food,"Local food stalls, Indonesian cuisine, snacks and culinary exploration",4.2,100000,-8.6913,115.1686,90
+Jakarta,National Monument,history,"Historic national monument, city views, museum exhibits and Indonesian independence",4.5,15000,-6.1754,106.8272,90
+Jakarta,National Museum of Indonesia,culture,"Museum collections about Indonesian history, archaeology and cultural heritage",4.6,25000,-6.1764,106.8227,120
+Jakarta,Ancol Dreamland,family,"Coastal recreation complex with family entertainment and attractions",4.2,250000,-6.1256,106.8364,180
+Jakarta,Istiqlal Mosque,culture,"Major religious landmark, architecture, cultural history and guided visits",4.7,0,-6.1699,106.8314,60
+Jakarta,Kota Tua Jakarta,history,"Old town square, colonial-era architecture, museums and street photography",4.4,10000,-6.1352,106.8133,120
+Jakarta,Glodok Chinatown,food,"Historic Chinatown district, markets, street food and local culture",4.3,75000,-6.1435,106.8130,90
+Yogyakarta,Borobudur Temple,history,"UNESCO-listed Buddhist temple complex, stone reliefs, heritage and architecture",4.8,375000,-7.6079,110.2038,150
+Yogyakarta,Prambanan Temple,history,"Hindu temple complex, historic architecture, stone carvings and cultural heritage",4.8,350000,-7.7520,110.4915,150
+Yogyakarta,Taman Sari,culture,"Historic royal water palace, gardens, pools and Javanese architecture",4.5,25000,-7.8101,110.3590,90
+Yogyakarta,Malioboro Street,food,"Popular shopping street, local crafts, street food and city culture",4.4,50000,-7.7926,110.3657,120
+Yogyakarta,Mount Merapi Viewpoint,nature,"Volcanic landscape, mountain scenery, outdoor exploration and photography",4.5,150000,-7.5407,110.4457,150
+Yogyakarta,Sonobudoyo Museum,culture,"Javanese art, traditional objects, cultural collections and history exhibits",4.3,10000,-7.8023,110.3640,90
+Bandung,Tangkuban Perahu,nature,"Volcanic crater, mountain landscape, viewpoints and nature exploration",4.5,30000,-6.7596,107.6098,150
+Bandung,Kawah Putih,nature,"Turquoise volcanic crater lake, misty scenery and landscape photography",4.6,30000,-7.1660,107.4020,150
+Bandung,Braga Street,culture,"Historic street, architecture, cafés, art spaces and city photography",4.4,50000,-6.9175,107.6098,100
+Bandung,Saung Angklung Udjo,culture,"Traditional Sundanese music, bamboo instruments and cultural performances",4.7,85000,-6.9006,107.6507,120
+Bandung,Orchid Forest Cikole,nature,"Forest garden, orchids, walking paths and scenic outdoor activities",4.5,40000,-6.7802,107.6374,150
+Lombok,Kuta Mandalika Beach,beach,"White sand coastline, swimming, surfing and coastal scenery",4.6,0,-8.8945,116.2820,150
+Lombok,Sembalun Valley,nature,"Mountain valley, hiking, rice fields and views of Mount Rinjani",4.7,25000,-8.3610,116.5320,180
+Lombok,Tiu Kelep Waterfall,nature,"Forest waterfall, nature walk, river crossing and scenic photography",4.6,20000,-8.3040,116.4050,180
+Lombok,Pura Meru,culture,"Historic Hindu temple complex, architecture and local religious heritage",4.4,20000,-8.5833,116.1167,75
+Lombok,Gili Trawangan Beach,beach,"Island beach, snorkeling, cycling and marine activities",4.5,100000,-8.3500,116.0380,180
